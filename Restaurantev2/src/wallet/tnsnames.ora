@@ -1,0 +1,12 @@
+opbok408mwktam0m_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=g71939e7b4d101c_opbok408mwktam0m_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+opbok408mwktam0m_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=g71939e7b4d101c_opbok408mwktam0m_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+opbok408mwktam0m_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=g71939e7b4d101c_opbok408mwktam0m_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+opbok408mwktam0m_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=g71939e7b4d101c_opbok408mwktam0m_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+opbok408mwktam0m_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=g71939e7b4d101c_opbok408mwktam0m_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
